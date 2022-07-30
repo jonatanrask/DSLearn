@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/6.iml" filepath="$PROJECT_DIR$/.idea/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estoque/Estoque.iml" filepath="$PROJECT_DIR$/Estoque/Estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Formula-Heron-POO/Formula-Heron-POO.iml" filepath="$PROJECT_DIR$/Formula-Heron-POO/Formula-Heron-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retangulo/Retangulo.iml" filepath="$PROJECT_DIR$/Retangulo/Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alunos/alunos.iml" filepath="$PROJECT_DIR$/alunos/alunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cambio/cambio.iml" filepath="$PROJECT_DIR$/cambio/cambio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formula-Heron/formula-Heron.iml" filepath="$PROJECT_DIR$/formula-Heron/formula-Heron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcionarios/funcionarios.iml" filepath="$PROJECT_DIR$/funcionarios/funcionarios.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Altura/Altura.iml" filepath="$PROJECT_DIR$/Altura/Altura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Memoria-vetores-listas.iml" filepath="$PROJECT_DIR$/.idea/Memoria-vetores-listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Preco-Medio/Preco-Medio.iml" filepath="$PROJECT_DIR$/Preco-Medio/Preco-Medio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abaixo-da-media/abaixo-da-media.iml" filepath="$PROJECT_DIR$/abaixo-da-media/abaixo-da-media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alturas/alturas.iml" filepath="$PROJECT_DIR$/alturas/alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aprovados/aprovados.iml" filepath="$PROJECT_DIR$/aprovados/aprovados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comerciante/comerciante.iml" filepath="$PROJECT_DIR$/comerciante/comerciante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dados-pessoas/dados-pessoas.iml" filepath="$PROJECT_DIR$/dados-pessoas/dados-pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcionario/funcionario.iml" filepath="$PROJECT_DIR$/funcionario/funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maior-posicao/maior-posicao.iml" filepath="$PROJECT_DIR$/maior-posicao/maior-posicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mais-velho/mais-velho.iml" filepath="$PROJECT_DIR$/mais-velho/mais-velho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media-pares/media-pares.iml" filepath="$PROJECT_DIR$/media-pares/media-pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/negativo/negativo.iml" filepath="$PROJECT_DIR$/negativo/negativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numeros-pares/numeros-pares.iml" filepath="$PROJECT_DIR$/numeros-pares/numeros-pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soma-vetor/soma-vetor.iml" filepath="$PROJECT_DIR$/soma-vetor/soma-vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soma-vetores/soma-vetores.iml" filepath="$PROJECT_DIR$/soma-vetores/soma-vetores.iml" />
+    </modules>
+  </component>
+</project>
