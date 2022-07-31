@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/Altura/Altura.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/Altura/Altura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/Estoque/Estoque.iml" filepath="$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/Estoque/Estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/Formula-Heron-POO/Formula-Heron-POO.iml" filepath="$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/Formula-Heron-POO/Formula-Heron-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-POO.iml" filepath="$PROJECT_DIR$/.idea/Java-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/Preco-Medio/Preco-Medio.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/Preco-Medio/Preco-Medio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/Retangulo/Retangulo.iml" filepath="$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/Retangulo/Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/abaixo-da-media/abaixo-da-media.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/abaixo-da-media/abaixo-da-media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/alturas/alturas.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/alturas/alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/alunos/alunos.iml" filepath="$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/alunos/alunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/aprovados/aprovados.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/aprovados/aprovados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/cada-linha/cada-linha.iml" filepath="$PROJECT_DIR$/Matrizes/cada-linha/cada-linha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/cambio/cambio.iml" filepath="$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/cambio/cambio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/comerciante/comerciante.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/comerciante/comerciante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construtores-this-sobrecarga-encapsulamento/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/Construtores-this-sobrecarga-encapsulamento/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/dados-pessoas/dados-pessoas.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/dados-pessoas/dados-pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/diagonal-negativos/diagonal-negativos.iml" filepath="$PROJECT_DIR$/Matrizes/diagonal-negativos/diagonal-negativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construtores-this-sobrecarga-encapsulamento/estoque/estoque.iml" filepath="$PROJECT_DIR$/Construtores-this-sobrecarga-encapsulamento/estoque/estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/formula-Heron/formula-Heron.iml" filepath="$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/formula-Heron/formula-Heron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/funcionario/funcionario.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/funcionario/funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/funcionarios/funcionarios.iml" filepath="$PROJECT_DIR$/Classes-atributos-metodos-static/6-2/funcionarios/funcionarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/maior-posicao/maior-posicao.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/maior-posicao/maior-posicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/mais-velho/mais-velho.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/mais-velho/mais-velho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/media-pares/media-pares.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/media-pares/media-pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/negativo/negativo.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/negativo/negativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/negativos-matriz/negativos-matriz.iml" filepath="$PROJECT_DIR$/Matrizes/negativos-matriz/negativos-matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/numeros-pares/numeros-pares.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/numeros-pares/numeros-pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/soma-linhas/soma-linhas.iml" filepath="$PROJECT_DIR$/Matrizes/soma-linhas/soma-linhas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/soma-matrizes/soma-matrizes.iml" filepath="$PROJECT_DIR$/Matrizes/soma-matrizes/soma-matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/soma-vetor/soma-vetor.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/soma-vetor/soma-vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memoria-vetores-listas/soma-vetores/soma-vetores.iml" filepath="$PROJECT_DIR$/Memoria-vetores-listas/soma-vetores/soma-vetores.iml" />
+    </modules>
+  </component>
+</project>

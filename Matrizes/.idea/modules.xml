@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Matrizes.iml" filepath="$PROJECT_DIR$/.idea/Matrizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/cada-linha/cada-linha.iml" filepath="$PROJECT_DIR$/cada-linha/cada-linha.iml" />
       <module fileurl="file://$PROJECT_DIR$/diagonal-negativos/diagonal-negativos.iml" filepath="$PROJECT_DIR$/diagonal-negativos/diagonal-negativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz-geral/matriz-geral.iml" filepath="$PROJECT_DIR$/matriz-geral/matriz-geral.iml" />
       <module fileurl="file://$PROJECT_DIR$/negativos-matriz/negativos-matriz.iml" filepath="$PROJECT_DIR$/negativos-matriz/negativos-matriz.iml" />
       <module fileurl="file://$PROJECT_DIR$/soma-linhas/soma-linhas.iml" filepath="$PROJECT_DIR$/soma-linhas/soma-linhas.iml" />
       <module fileurl="file://$PROJECT_DIR$/soma-matrizes/soma-matrizes.iml" filepath="$PROJECT_DIR$/soma-matrizes/soma-matrizes.iml" />
