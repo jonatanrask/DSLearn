@@ -2,6 +2,7 @@ package entities;
 
 import entities.enums.OrderStatus;
 
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -64,9 +65,10 @@ public class Order {
         return total;
     }
     public String toString(){
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy hh:mm:ss");
         StringBuilder sb = new StringBuilder();
         sb.append("ORDER SUMMARY:\n");
-        sb.append("Order moment: " + moment + "\n");
+        sb.append("Order moment: " + sdf.format(moment) + "\n");
         sb.append("Order status: " + status + "\n");
         sb.append("Client: ");
         sb.append(client.getName());
@@ -75,11 +77,11 @@ public class Order {
         sb.append("Order items:\n");
         for(OrdemItem item : getOrdemItems()){
             sb.append(item.getProduct().getName() + ", $");
-            sb.append(item.getProduct().getPrice() + ", ");
+            sb.append(String.format("%.2f", item.getProduct().getPrice()) + ", ");
             sb.append("Quantity: " + item.getQuantity() + ", ");
-            sb.append("Subtotal: $" + item.subTotal() + "\n");
+            sb.append("Subtotal: $" + String.format("%.2f",item.subTotal())  + "\n");
         }
-        sb.append("Total price: $" + total());
+        sb.append("Total price: $" + String.format("%.2f",total()));
         return  sb.toString();
 
     }

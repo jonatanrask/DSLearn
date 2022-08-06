@@ -34,6 +34,7 @@ public class Program {
         int quantity = sc.nextInt();
         Date instantDate = new Date();
         Order order = new Order(instantDate, OrderStatus.valueOf(status), client);
+        
         System.out.println("ORDER SUMMARY:");
         for(int i = 1; i <= quantity; i++)  {
             System.out.println("Enter #" + i + " item data:");
