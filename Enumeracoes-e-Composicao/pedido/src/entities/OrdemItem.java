@@ -6,11 +6,7 @@ import java.util.List;
 public class OrdemItem {
     private Integer quantity;
     private Double price;
-
     private Product product;
-
-    public OrdemItem() {
-    }
 
     public OrdemItem(Integer quantity, Double price, Product product) {
         this.quantity = quantity;
