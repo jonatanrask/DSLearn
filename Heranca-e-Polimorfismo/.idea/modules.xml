@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Heranca-e-Polimorfismo.iml" filepath="$PROJECT_DIR$/.idea/Heranca-e-Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contribuintes/contribuintes.iml" filepath="$PROJECT_DIR$/contribuintes/contribuintes.iml" />
       <module fileurl="file://$PROJECT_DIR$/figuras/figuras.iml" filepath="$PROJECT_DIR$/figuras/figuras.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcionario/funcionario.iml" filepath="$PROJECT_DIR$/funcionario/funcionario.iml" />
       <module fileurl="file://$PROJECT_DIR$/produtos/produtos.iml" filepath="$PROJECT_DIR$/produtos/produtos.iml" />
