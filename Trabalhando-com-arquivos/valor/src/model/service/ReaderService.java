@@ -2,7 +2,9 @@ package model.service;
 
 import model.entities.Product;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,16 +14,7 @@ public class ReaderService {
 
     public ReaderService() {
     }
-
-    public List<Product> getProductList() {
-        return productList;
-    }
-
-    public void addProduct(Product product) {
-        productList.add(product);
-    }
-
-    public void readerLine(String pathReader, String pathWriter) throws IOException {
+    public void readerLine(String pathReader){
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(pathReader))) {
             String line = bufferedReader.readLine();
             while (line != null) {
@@ -33,17 +26,14 @@ public class ReaderService {
                 productList.add(product);
                 line = bufferedReader.readLine();
             }
-            try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(pathWriter))) {
-                for (Product products : productList) {
-                    bufferedWriter.write(products.getName() + "," + String.format("%.2f", products.subtotal()));
-                    bufferedWriter.newLine();
-                }
-            } catch (IOException exception) {
-                throw new RuntimeException(exception);
-            }
-
         } catch (IOException exception) {
-            throw new RuntimeException(exception);
+            System.out.println("Error: " + exception.getMessage());
         }
+    }
+    public List<Product> getProductList() {
+        return productList;
+    }
+    public void addProduct(Product product) {
+        productList.add(product);
     }
 }
